@@ -25,18 +25,7 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-	  <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>ip-172-31-27-66.ec2.internal-releases</name>
-        <url>http://3.80.143.166:8081/artifactory/javasql</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>ip-172-31-27-66.ec2.internal-snapshots</name>
-        <url>http://3.80.143.166:8081/artifactory/javasql</url>
-    </snapshotRepository>
-</distributionManagement>
+	  
 	  
     <!-- https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api -->
     <dependency>
